@@ -110,19 +110,19 @@ Consideramos esta versão um **Minimum Marketable Product (MMP)** porque a loja 
 
 A versão apresenta:
 
-* Identidade visual;
-* Produtos definidos;
-* Catálogo;
-* Preços;
-* Descrições;
-* Público-alvo;
-* Diferencial;
-* Forma de contato;
-* Processo de compra;
-* Estratégia de divulgação;
-* Possibilidade de entrega;
-* Experiência de usuário;
-* Informações sobre a empresa.
+* Identidade visual
+* Produtos definidos
+* Catálogo
+* Preços
+* Descrições
+* Público-alvo
+* Diferencial
+* Forma de contato
+* Processo de compra
+* Estratégia de divulgação
+* Possibilidade de entrega
+* Experiência de usuário
+* Informações sobre a empresa
 
 A loja não é apenas um protótipo visual. Ela foi planejada considerando como o produto poderia ser apresentado e comercializado para clientes reais.
 
