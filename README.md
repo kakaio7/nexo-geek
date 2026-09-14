@@ -138,16 +138,16 @@ Durante o teste, os participantes navegaram pela loja sem receber explicações 
 
 Após a navegação, foram realizadas perguntas sobre:
 
-1. Entendimento da loja;
-2. Confiança;
-3. Clareza do preço;
-4. Processo de compra;
-5. Interesse pelo produto;
-6. Qualidade da apresentação;
-7. Elementos que chamaram atenção;
-8. Possíveis mudanças;
-9. Intenção de compra;
-10. Motivos que poderiam impedir a compra.
+1. Entendimento da loja
+2. Confiança
+3. Clareza do preço
+4. Processo de compra
+5. Interesse pelo produto
+6. Qualidade da apresentação
+7. Elementos que chamaram atenção
+8. Possíveis mudanças
+9. Intenção de compra
+10. Motivos que poderiam impedir a compra
 
 ## Feedback
 
@@ -181,12 +181,12 @@ Essa alteração facilita o entendimento do processo de compra.
 
 As descrições dos produtos foram aprimoradas com informações como:
 
-* Características;
-* Opções disponíveis;
-* Tamanhos;
-* Materiais;
-* Formas de personalização;
-* Informações importantes para o cliente.
+* Características
+* Opções disponíveis
+* Tamanhos
+* Materiais
+* Formas de personalização
+* Informações importantes para o cliente
 
 As duas melhorias foram implementadas na loja após a realização dos testes.
 
@@ -198,21 +198,21 @@ A NEXO GEEK pretende utilizar diferentes canais para alcançar seu público.
 
 Será utilizado para:
 
-* Publicar produtos;
-* Divulgar promoções;
-* Apresentar novidades;
-* Publicar conteúdos relacionados à cultura geek;
-* Divulgar o link da loja.
+* Publicar produtos
+* Divulgar promoções
+* Apresentar novidades
+* Publicar conteúdos relacionados à cultura geek
+* Divulgar o link da loja
 
 ### TikTok
 
 Será utilizado para vídeos curtos mostrando:
 
-* Produtos;
-* Personalizações;
-* Novidades;
-* Conteúdos geek;
-* Promoções.
+* Produtos
+* Personalizações
+* Novidades
+* Conteúdos geek
+* Promoções
 
 Também poderá ser utilizado o **WhatsApp** para atendimento e compartilhamento do catálogo.
 
@@ -222,10 +222,10 @@ A entrega poderá ocorrer de acordo com a localização do cliente.
 
 As possibilidades consideradas são:
 
-* Retirada em local combinado;
-* Entrega local;
-* Envio pelos Correios;
-* Transportadora.
+* Retirada em local combinado
+* Entrega local
+* Envio pelos Correios
+* Transportadora
 
 O método escolhido poderá variar de acordo com o produto e a localização do cliente.
 
@@ -283,14 +283,14 @@ O processo de compra planejado é:
 
 Exemplos:
 
-* Wix;
-* Canva Websites;
-* Google Sites;
-* Nuvemshop;
-* Loja Integrada;
-* Shopify;
-* WordPress;
-* Outra plataforma autorizada pelo professor.
+* Wix
+* Canva Websites
+* Google Sites
+* Nuvemshop
+* Loja Integrada
+* Shopify
+* WordPress
+* Outra plataforma autorizada pelo professor
 
 ## Conclusão
 
