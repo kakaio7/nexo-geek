@@ -63,9 +63,13 @@ Os preços foram pensados levando em consideração quanto mais ou menos gastar�
 Alguns exemplos de preços que pensamos para a loja:
 
 Camiseta personalizada: R$ 49,90
+
 Caneca personalizada: R$ 34,90
+
 Mousepad: R$ 39,90
+
 Chaveiro: R$ 14,90
+
 Kit Geek: R$ 69,90
 
 Por exemplo, se uma camiseta custasse aproximadamente R$ 25,00 para ser produzida e fosse vendida por R$ 49,90, sobrariam cerca de R$ 24,90 antes de considerar outros gastos.
