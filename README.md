@@ -279,19 +279,9 @@ O processo de compra planejado é:
 
 ## Plataforma
 
-**Plataforma utilizada:**
-[Adicionar a plataforma escolhida]
+**Plataforma utilizada:** Canva Websites
 
-Exemplos:
-
-* Wix
-* Canva Websites
-* Google Sites
-* Nuvemshop
-* Loja Integrada
-* Shopify
-* WordPress
-* Outra plataforma autorizada pelo professor
+A loja virtual da NEXO GEEK foi desenvolvida utilizando o **Canva**, uma plataforma no-code que permite criar e disponibilizar páginas e sites de forma visual e acessível.
 
 ## Conclusão
 
