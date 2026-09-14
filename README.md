@@ -268,13 +268,13 @@ O processo de compra planejado é:
 **LINK DA LOJA:**
 [Adicionar o link da loja aqui]
 
-## 👥 Equipe
+## Equipe
 
-* **Nome do aluno 1** — Gestão / Planejamento
-* **Nome do aluno 2** — Design / Identidade Visual
-* **Nome do aluno 3** — Desenvolvimento da Loja
-* **Nome do aluno 4** — Marketing / Divulgação
-* **Nome do aluno 5** — Pesquisa / Validação
+* **Wanessa** — Gestão / Planejamento
+* **Mario** — Design / Identidade Visual
+* **Kauã** — Desenvolvimento da Loja
+* **Caio** — Marketing / Divulgação
+* **Eryck** — Pesquisa / Validação
 
 ## Plataforma
 
