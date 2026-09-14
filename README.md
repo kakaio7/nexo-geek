@@ -265,9 +265,6 @@ O processo de compra planejado é:
 
 ## Acesso à Loja
 
-**LINK DA LOJA:**
-[Adicionar o link da loja aqui]
-
 ## Equipe
 
 * **Wanessa** — Gestão / Planejamento
