@@ -267,8 +267,6 @@ O processo de compra planejado é:
 
 **8. Produto é enviado ou disponibilizado para retirada**
 
-## Acesso à Loja
-
 ## Equipe
 
 * **Wanessa** — Gestão / Planejamento
